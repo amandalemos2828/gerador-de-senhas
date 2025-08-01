@@ -151,3 +151,8 @@ label {
     background-color: #00FF85;
     width: 100%;
 }
+@media screen and (min-width: 768px) {
+    .parametro-coluna__senha {
+        flex-direction: row;
+    }
+}
